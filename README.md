@@ -45,9 +45,8 @@ Welcome to the **Flutter E-Commerce App Recycled Product Screen**! This screen d
 ---
 ## Screenshots
 
-![product_screen_1](https://github.com/user-attachments/assets/1f46d46d-bfb0-43ae-be07-d01700482bd4)
-![product_screen_with_favorite](https://github.com/user-attachments/assets/38a89bb4-d321-4727-ad23-a8da1b3b49f9)
-
+![WhatsApp Image 2024-07-14 at 5 58 52 AM](https://github.com/user-attachments/assets/08934704-e9f8-4f88-8027-dcff069878b8)
+![WhatsApp Image 2024-07-14 at 5 58 51 AM](https://github.com/user-attachments/assets/6a161d21-6c65-449a-9ca8-89cfc02a8c13)
 
 ---
 
